@@ -18,7 +18,7 @@ for stream in (sys.stdout, sys.stdin):
 PROVIDER = "groq"  # "groq" = Groq (free tier, key starts with gsk_)
 # "xai"  = Grok by xAI (credit based, key from console.x.ai)
 
-API_KEY = "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"  # keep the quotes
+API_KEY = "WRITE YOUR GROQ API KEY HERE"  # keep the quotes
 
 # Model names change often. If you get "model not found", the program
 # will print the models your key can use; copy one of them here.
